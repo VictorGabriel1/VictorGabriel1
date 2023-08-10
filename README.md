@@ -15,7 +15,6 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="right" alt="GIF" height="150" style="border-radius:10px;" src="https://gifimage.net/wp-content/uploads/2018/04/lelouch-gif-12.gif">
 </div>
   
   ##
