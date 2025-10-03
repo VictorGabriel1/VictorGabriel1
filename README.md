@@ -26,6 +26,6 @@
 <div align="center"> 
   <a href="https://instagram.com/victor_mucci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victor.mucci1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-  <a href = "mailto:victor.mucci1@hotmail.com">Outlook</a>
+  <a href = "mailto:victor.mucci1@hotmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11?Label=Outlook" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-mucci-6b5a651b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
